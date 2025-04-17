@@ -1,0 +1,5 @@
+[
+    {"city": "Petalborough", "title": "Petalborough Rentals", "kind": "rental_car"},
+    {"city": "Rustburg", "title": "Rustburg Auto", "kind": "rental_car"},
+    {"city": "Shaleport", "title": "Shaleport Car Hire", "kind": "rental_car"}
+  ] 
